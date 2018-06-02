@@ -1,2 +1,2 @@
 # GameProject
-A test
+Unity Game Project
